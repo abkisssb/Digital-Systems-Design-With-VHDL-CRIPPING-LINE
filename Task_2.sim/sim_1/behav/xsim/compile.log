@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ABIOLA/Desktop/LAB4/Task_1/Task_2.srcs/sources_1/new/first_creeping.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'first_creeping'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ABIOLA/Desktop/LAB4/Task_1/Task_2.srcs/sim_1/new/first_creeping_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'first_creeping_tb'
